@@ -1,3 +1,4 @@
+Meant to controlled with PID controller from [this repository](https://github.com/ReQ1600/pid-control-panel)
 ## Add project to your workspace:
   1. Open your workspace
   2. Go into File->Open Projects From File System...
